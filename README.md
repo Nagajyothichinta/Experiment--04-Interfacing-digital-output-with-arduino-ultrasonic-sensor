@@ -1,9 +1,9 @@
 # EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
-
+```
 Name:Chintha.Nagajyothi
 DEPT:AI & DS
 Reg No:212221230015
-
+```
 ## AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
  
